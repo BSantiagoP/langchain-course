@@ -23,3 +23,6 @@ document loader as well.
 
 
 UV is a very fast python package manager built on RUST
+
+
+Model are conversational so: System message -> 1. Humanmessage, AImessage, 2. Humanmessage, AImessage, toolmessage,.....
